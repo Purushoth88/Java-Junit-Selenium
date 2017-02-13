@@ -17,7 +17,7 @@
     			<artifactId>sauce-ondemand-driver</artifactId>
     			<version>1.2</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/sauce-ondemand-driver-1.2.jar</systemPath>
+			<systemPath>${basedir}/sauce-ondemand-driver-1.2.jar</systemPath>
 		</dependency>
 
 		
@@ -27,7 +27,7 @@
 			<artifactId>sauce-ondemand</artifactId>
 			<version>1.160</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/sauce-ondemand-1.160.jar</systemPath>
+			<systemPath>${basedir}/sauce-ondemand-1.160.jar</systemPath>
 		</dependency>
 		
 		<dependency>
@@ -35,7 +35,7 @@
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/junit-4.12.jar</systemPath>
+			<systemPath>${basedir}/junit-4.12.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -43,7 +43,7 @@
 			<artifactId>sauce_java_common</artifactId>
 			<version>4.12</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/sauce_java_common-2.1.21.jar</systemPath>
+			<systemPath>${basedir}/sauce_java_common-2.1.21.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -51,7 +51,7 @@
 			<artifactId>selenium-java</artifactId>
 			<version>2.53.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/selenium-java-2.53.0.jar</systemPath>
+			<systemPath>${basedir}/selenium-java-2.53.0.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -59,7 +59,7 @@
 			<artifactId>sauce_junit</artifactId>
 			<version>2.1.21</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/sauce_junit-2.1.21.jar</systemPath>
+			<systemPath>${basedir}/sauce_junit-2.1.21.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -67,7 +67,7 @@
 			<artifactId>selenium-server-standalone</artifactId>
 			<version>2.53.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/selenium-server-standalone-2.53.0.jar</systemPath>
+			<systemPath>${basedir}/selenium-server-standalone-2.53.0.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -75,7 +75,7 @@
 			<artifactId>poi-ooxml-schemas</artifactId>
 			<version>3.11</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/poi-ooxml-schemas-3.11.jar</systemPath>
+			<systemPath>${basedir}/poi-ooxml-schemas-3.11.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -83,7 +83,7 @@
 			<artifactId>gson</artifactId>
 			<version>2.2.4</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/gson-2.2.4.jar</systemPath>
+			<systemPath>${basedir}/gson-2.2.4.jar</systemPath>
 		</dependency>
 
 
@@ -92,7 +92,7 @@
 			<artifactId>java-client</artifactId>
 			<version>4.1.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/java-client-4.1.0.jar</systemPath>
+			<systemPath>${basedir}/java-client-4.1.0.jar</systemPath>
 		</dependency>
 
 
@@ -101,7 +101,7 @@
 			<artifactId>slf4j-api</artifactId>
 			<version>1.7.21</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/slf4j-api-1.7.21.jar</systemPath>
+			<systemPath>${basedir}/slf4j-api-1.7.21.jar</systemPath>
 		</dependency>
 
 
@@ -110,7 +110,7 @@
 			<artifactId>slf4j-log4j12</artifactId>
 			<version>1.7.21</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/slf4j-log4j12-1.7.21.jar</systemPath>
+			<systemPath>${basedir}/slf4j-log4j12-1.7.21.jar</systemPath>
 		</dependency>
 
 
@@ -119,7 +119,7 @@
 			<artifactId>xmlbeans</artifactId>
 			<version>2.3.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/xmlbeans-2.3.0.jar</systemPath>
+			<systemPath>${basedir}/xmlbeans-2.3.0.jar</systemPath>
 		</dependency>
 
 
@@ -128,7 +128,7 @@
 			<artifactId>dom4j</artifactId>
 			<version>1.6</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/dom4j-1.6.jar</systemPath>
+			<systemPath>${basedir}/dom4j-1.6.jar</systemPath>
 		</dependency>
 
 
@@ -137,7 +137,7 @@
 			<artifactId>json-path</artifactId>
 			<version>0.9.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/json-path-0.9.0.jar</systemPath>
+			<systemPath>${basedir}/json-path-0.9.0.jar</systemPath>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path -->
@@ -146,7 +146,7 @@
 			<artifactId>json-path</artifactId>
 			<version>2.0.1</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/json-path-2.0.1.jar</systemPath>
+			<systemPath>${basedir}/json-path-2.0.1.jar</systemPath>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.jayway.restassured/json-path -->
@@ -155,7 +155,7 @@
 			<artifactId>json-path</artifactId>
 			<version>1.8.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/json-path-1.8.0.jar</systemPath>
+			<systemPath>${basedir}/json-path-1.8.0.jar</systemPath>
 		</dependency>
 
 
@@ -165,7 +165,7 @@
 			<artifactId>json-smart</artifactId>
 			<version>1.2</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/json-smart-1.2.jar</systemPath>
+			<systemPath>${basedir}/json-smart-1.2.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -173,7 +173,7 @@
 			<artifactId>jsoup</artifactId>
 			<version>1.9.2</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/jsoup-1.9.2.jar</systemPath>
+			<systemPath>${basedir}/jsoup-1.9.2.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -181,7 +181,7 @@
 			<artifactId>log4j</artifactId>
 			<version>1.2.15</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/log4j-1.2.15.jar</systemPath>
+			<systemPath>${basedir}/log4j-1.2.15.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -189,7 +189,7 @@
 			<artifactId>poi</artifactId>
 			<version>3.9</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/poi-3.9.jar</systemPath>
+			<systemPath>${basedir}/poi-3.9.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -197,7 +197,7 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>3.9</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/poi-ooxml-3.9.jar</systemPath>
+			<systemPath>${basedir}/poi-ooxml-3.9.jar</systemPath>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.eclipse.jgit/org.eclipse.jgit -->
@@ -206,7 +206,7 @@
 			<artifactId>org.eclipse.jgit</artifactId>
 			<version>4.5.0.201609210915-r</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/org.eclipse.jgit-4.5.0.201609210915-r.jar</systemPath>
+			<systemPath>${basedir}/org.eclipse.jgit-4.5.0.201609210915-r.jar</systemPath>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.jcraft/jsch -->
@@ -215,7 +215,7 @@
 			<artifactId>jsch</artifactId>
 			<version>0.1.54</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/jsch-0.1.54.jar</systemPath>
+			<systemPath>${basedir}/jsch-0.1.54.jar</systemPath>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.eclipse.jgit/org.eclipse.jgit -->
@@ -224,7 +224,7 @@
 			<artifactId>org.eclipse.jgit</artifactId>
 			<version>1.3.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/org.eclipse.jgit-1.3.0.jar</systemPath>
+			<systemPath>${basedir}/org.eclipse.jgit-1.3.0.jar</systemPath>
 		</dependency>
 
 		<dependency>
@@ -232,7 +232,7 @@
 			<artifactId>common-lang3</artifactId>
 			<version>3.4</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/common-lang3.jar</systemPath>
+			<systemPath>${basedir}/common-lang3.jar</systemPath>
 </dependency>
     </dependencies>
 	
